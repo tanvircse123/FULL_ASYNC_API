@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FULL_ASYNC_API.props" />
+</Project>

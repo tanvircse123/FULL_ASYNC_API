@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FULL_ASYNC_API.props" />
+</Project>
